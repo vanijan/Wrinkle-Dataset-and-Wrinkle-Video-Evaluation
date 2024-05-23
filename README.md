@@ -12,4 +12,4 @@ please cite the diploma thesis "Automatic Analysis of Facial Wrinkle Characteris
 crop_limits.npy are a saved (674, 5) numpy array where one row corresponds to [image_number, min_h, max_h, min_w, max_w].
 
 ## Wrinkle Video Evaluation
-This repository also contains files in the video_eval folder used for video evaluation in the thesis and is provided for reproducibility.
+This repository also contains files in the video_evaluation folder used for video evaluation in the thesis and is provided for reproducibility.
