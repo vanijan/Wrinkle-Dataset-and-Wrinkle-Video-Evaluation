@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-__author__ = 'vanijan'
+
 #adjusted from the original solution by solivr by the 2D kernel into two 1D kernels
 
 from typing import Tuple

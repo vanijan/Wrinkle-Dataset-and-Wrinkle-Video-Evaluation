@@ -1,0 +1,10 @@
+mediapipe
+torch
+scipy
+pygame
+pillow
+scikit-image
+matplotlib
+numpy
+opencv
+monai
